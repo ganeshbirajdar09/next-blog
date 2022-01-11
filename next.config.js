@@ -1,3 +1,6 @@
 module.exports = {
-  reactStrictMode: true,
-}
+  env: {
+    PUBLIC_URL: "https://ganeshbirajdar09.github.io/next-blog",
+    assetPrefix: "./",
+  },
+};
